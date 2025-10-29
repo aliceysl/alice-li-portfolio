@@ -32,7 +32,6 @@ A researcher is also a storyteller and strategist who helps stakeholders see val
 
 ## Data Visualization Critique:
 This is the page of my DV Critique for the course "Telling Stories with Data".
-
 [Critique 1](DV-critique-1)
 
 ## Final project
