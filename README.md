@@ -12,13 +12,8 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 
 <h1>Hi, I’m Alice!</h1>
 <img src="my-notion-face-portrait.png" alt="Alice portrait" width="220" align="left" style="margin-right: 20px; border-radius: 10px;">
-
 > *I turn feelings and experiences into actionable insights that drive meaningful innovation.*
-
----
-
 I am actively seeking a **User Researcher** role as I complete my Master's at **Carnegie Mellon University** in **December 2025**.
-
 - **5+ years** of experience translating research insights into actionable strategies  
 - Skilled in synthesizing complex, **ambiguous** data into clear insights  
 - Drive product development through **data-driven research**  
