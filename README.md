@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Critique 1](DV-critique-1) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 <h1>Hi, I’m Alice!</h1>
 <img src="my-notion-face-portrait.png" alt="Alice portrait" width="220" align="left" style="margin-right: 20px; border-radius: 10px;">
