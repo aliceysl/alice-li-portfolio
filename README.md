@@ -10,12 +10,9 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
-# About me
 # Hi, I'm Alice!
 
 > *I turn feelings and experiences into actionable insights that drive meaningful innovation.*
-
----
 
 I am actively seeking a **User Researcher** role as I complete my Master's at **Carnegie Mellon University** in **December 2025**.
 
