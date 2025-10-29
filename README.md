@@ -10,7 +10,9 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
-# Hi, I'm Alice!
+<h1>Hi, I’m Alice!</h1>
+<img src="my-notion-face-portrait.png" alt="Alice portrait" width="220" align="left" style="margin-right: 20px; border-radius: 10px;">
+<p>I turn feelings and experiences into actionable insights that drive meaningful innovation.</p>
 
 > *I turn feelings and experiences into actionable insights that drive meaningful innovation.*
 
@@ -38,10 +40,7 @@ or...
 - List item #2
 - List item #3
 
-# Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+# Portfolio 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
