@@ -20,7 +20,7 @@ Above all, I believe research is not only about improving products — it’s ab
 - This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/aliceysl/alice-li-portfolio)
 
 # What I hope to learn
-I have an interdisciplinary background in *psychology, business, and product innovation*. I want to strengthen my data organization and storytelling skills:
+I have an interdisciplinary background in **psychology, business, and product innovation**. I want to strengthen my data organization and storytelling skills:
 
 - Learn to structure complex information and communicate research findings in ways that are clear, visual, and accessible.
 - Develop the ability to bridge evidence and empathy, turning insights into narratives that inspire action.
