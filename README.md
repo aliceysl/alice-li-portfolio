@@ -1,14 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 <h1>Hi, I’m Alice!</h1>
 <img src="my-notion-face-portrait.png" alt="Alice portrait" width="220" align="left" style="margin-right: 20px; border-radius: 10px;">
@@ -24,6 +18,10 @@ I am actively seeking a **User Researcher** role as I complete my Master's at **
 
 I’m inspired by small discoveries that lead to big impact. Traveling, attending exhibitions, and engaging with diverse cultures fuel my creativity and provide fresh perspectives to bring into my research work.  
 Above all, I believe research is not only about improving products — it’s about creating meaningful, positive change for people and society.
+
+###This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.
+- Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://aliceysl.github.io/alice-li-portfolio/)
+- This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/aliceysl/alice-li-portfolio)
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
