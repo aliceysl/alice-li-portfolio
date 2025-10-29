@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Critique 1](DV-critique-1) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Data Visualization Critique](DV-critique-1) | [Data visualization](DV-1) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 <h1>Hi, I’m Alice!</h1>
 <img src="my-notion-face-portrait.png" alt="Alice portrait" width="220" align="left" style="margin-right: 20px; border-radius: 10px;">
@@ -30,15 +30,19 @@ A researcher is also a storyteller and strategist who helps stakeholders see val
 
 # Portfolio 
 
-## Data Visualization Critique:
-This is the page of my DV Critique for the course "Telling Stories with Data".
-[Critique 1](DV-critique-1)
+## This is the page of my works for the course "Telling Stories with Data".
+[Data Visualization Critique](DV-critique-1)
+[Data visualization](DV-1)
+[Critique by Design](critique-by-design)
+
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
+
+Here it might be helpful to include a high-level description of your final project. 
+
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
