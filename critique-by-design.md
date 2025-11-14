@@ -69,35 +69,91 @@ Based on my critiques, I created three sketches addressing three points.
 <img src="Sankey diagram - sketch.jpg" width="800">
 
 ## Step four: Test the solution
+- **Participant 1:** 25 years old, male, accounting background, no design background, basic knowledge of cars
+- **Participant 2:** 30 years old, female, product designer, design background, unfamiliar with cars
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+### Questions & results
 
-Questions to ask (modify these for your own interviews): 
+#### Overall understanding
+- What do you think these three sketches are presenting?
+- Which one is easiest to understand? Which one is hardest to understand? Why?
 
-- Can you tell me what you think this is?
+  - **Interview 1**
+    - Heatmaps are the most intuitive and easiest to understand.
+    - Sankey diagrams show brand recall volume, but their numerous branches can make them cluttered.
+    - Line charts initially gave the impression that higher values were better (since “higher is better” is the common assumption).
 
-- Can you describe to me what this is telling you?
+  - **Interview 2**
+    - Each chart should include a clear title and brief description.
+    - Heatmaps are the most intuitive (especially when comparing multiple brands).
+    - Sankey diagrams require closer reading to understand.
 
-- Is there anything you find surprising or confusing?
+#### Line Chart
+- What do you think this chart is talking about?
+- Is it easy to understand? Any questions?
+- What other information or labels would you like to see?
 
-- Who do you think is the intended audience for this?
+  - **Interview 1**
+    - Not a big fan of line charts, but they're tolerable when paired with heatmaps.
+    - Consider adding a note: “Higher values indicate more recalls, not necessarily better performance.”
 
-- Is there anything you would change or do differently?
+  - **Interview 2**
+    - I prefer line charts because they show trends over time rather than just total figures.
+    - I recommend adding data limitation annotations (e.g., “no market share data available,” “does not indicate quality”).
 
-Results: 
+#### Heatmap
+- Are the heatmap's color gradients easy to understand?
+- Can you quickly identify “the most common defects for a specific brand”?
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+  - **Interview 1**
+    - Clearly distinguish between the brand and the reason for recall.
+    - Color intensity allows people to immediately grasp the key points.
+
+  - **Interview 2**
+    - Color intensity is quite effective.
+    - Sorting from dark to light would make it easier to understand.
+
+#### Sankey Diagram
+- Do the lines help you understand the flow direction?
+- What do the lines make you feel?
+
+  - **Interview 1**
+    - Advantages: Provides insight into the general types of defects associated with each brand.
+    - Disadvantages: Multiple lines can appear cluttered, making it less readable than a heatmap.
+
+  - **Interview 2**
+    - The concept is good, but the sketch lacks numerical labels, making it difficult to discern differences in magnitude.
+    - If there are too many defect categories, consider simplifying them.
+
+#### Improvements
+- What order do you think these three images should be presented in?
+- Which one is most helpful? Which one needs the most improvement?
+- Is there any other information you feel is missing?
+
+  - **Interview 1**
+    - Recommended to include market share comparisons to avoid the misunderstanding that “more recalls = poor vehicle quality.”
+    - Believe annotations should be added to prevent misunderstanding.
+
+  - **Interview 2**
+    - Figure captions, axis labels, and text within figures need to be clearer.
+    - I believe the three figures could form a dashboard, ideally arranged in the logical sequence of “trends → comparisons → flow.”
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+### Synthesis: 
 
-Synthesis: 
+<mark>**Insight 1:** Heatmaps are the clearest and most effective charts</mark>
+- Both participants agreed heatmaps are the easiest to understand
+- They enable quick comparison of brands and recall reasons
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+<mark>**Insight 2:** Sankey Diagrams Need Simplification</mark>
+- Both agree Sankey diagrams are informative but high in noise
+- Become messy when too many defect categories are present; require:
+- Adding labels
+- Using them as supplementary rather than primary visuals
+
+<mark>**Insight 3**: Every chart requires a title and caption</mark>
+- Users need guidance on “what question this chart is meant to answer”
+- The title area and subtitle require reinforcement
 
 ## Step five: build the solution
 
