@@ -169,9 +169,29 @@ _Include and describe your final solution here. It's also a good idea to summari
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-Figure 1. Annual Changes in Recall Volumes for Major Automakers Over the Past 12 Years.
+**Figure 1. Annual Changes in Recall Volumes for Major Automakers Over the Past 12 Years.**
 This line chart illustrates trends among the top 15 automakers by recall volume from 2010 to 2022, highlighting brands that stood out significantly or experienced notable fluctuations in certain years. 
 Note: Recall volume represents only the number of affected vehicles and does not equate to quality levels.
+
+<div class='tableauPlaceholder' id='viz1763111451186' style='position: relative'><noscript><a href='#'><img alt='Automaker and Defect Category Recall Heat Map (Top 15, 2010–2022)This heat map compares recall types for the top 15 automakers from 2010 to 2022.Each cell represents the number of vehicles recalled for “a specific manufacturer × a specific defect catego ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarsRecallTrend-heatmap&#47;Heatmap&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CarsRecallTrend-heatmap&#47;Heatmap' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarsRecallTrend-heatmap&#47;Heatmap&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-TW' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1763111451186');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+**Figure 2. Brand × Defect Category Recall Heat Map (2010–2022).**
+This figure displays the distribution of vehicle recalls across defect categories for the top 15 automakers. Darker shades indicate higher recall volumes, while lighter shades represent lower volumes. 
+Note: The data excludes market share, so recall volumes do not serve as a quality indicator.
+
+<img src="sankey.png" width="800">
+
+**Figure 3. Recall Flow Between Brands and Defect Categories (2010–2022).**
+This figure illustrates how recall volumes from the top 15 automobile manufacturers (2010–2022) are categorized by major defects. The width of each flow represents the number of vehicles affected, allowing readers to quickly identify which defect categories account for the largest share of recalls for each manufacturer. This visualization highlights structural patterns in recall distributions that are not readily apparent in trend lines or heat maps.
+
 
 
 ## References
