@@ -163,5 +163,10 @@ _Include and describe your final solution here. It's also a good idea to summari
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_In this assignment, I used Generative AI to assist with the following tasks:_
+
+_- Understanding assignment instructions: Clarifying requirements for each step and confirming submission format specifications._
+_- Refining textual expression: Assisting in adjusting the tone when describing critiques, insights, and user interview feedback to ensure clarity, conciseness, and fluency._
+
+_All visual sketches, data analysis, user interviews, final decisions, and redesigns were completed by me personally._
 
