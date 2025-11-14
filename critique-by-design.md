@@ -168,6 +168,7 @@ _Include and describe your final solution here. It's also a good idea to summari
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
 Figure 1. Annual Changes in Recall Volumes for Major Automakers Over the Past 12 Years.
 This line chart illustrates trends among the top 15 automakers by recall volume from 2010 to 2022, highlighting brands that stood out significantly or experienced notable fluctuations in certain years. 
 Note: Recall volume represents only the number of affected vehicles and does not equate to quality levels.
