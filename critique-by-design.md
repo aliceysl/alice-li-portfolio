@@ -19,10 +19,10 @@ My goal is to enable users with a single glance to understand:
 - Time trends
 - Defect types
 - Differences between brands
----
+
 ## Step two: the critique
 I analyzed the original visualization using Stephen Few's evaluation model, focusing on aspects such as “message clarity, comparative capability, design consistency, and authenticity.”
----
+
 ### What is the message?
 
 This pie chart primarily shows:
@@ -30,6 +30,24 @@ This pie chart primarily shows:
 - Clicking reveals the main defect types for that brand's recalls
 
 In other words, it aims to convey both “overall comparison” and “defect classification.”
+
+### Strengths
+
+The interactive design guides users to explore defect classifications (by clicking brands), with colors enabling viewers to distinguish different brands. It effectively presents the theme of “comparing recall volumes.”
+
+### Weaknesses
+
+- Pie charts are unsuitable for comparing multiple brands: When the number of categories increases, differences become harder to discern, and excessive colors can lead to insufficient information density.
+- Inability to compare defect types across brands: Pie charts limit presentation, allowing only a deep dive into all defect types for one brand at a time.
+- Lacks temporal context: Despite covering 57 years of data, pie charts only show aggregate totals
+
+### Potential Misinterpretation
+**```Recall volume ≠ quality metric```**
+
+Without total sales volume, market share, or vehicle count, viewers may mistakenly assume brands with higher numbers perform worse. The title and description also fail to clarify this.
+
+> When redesigning, it's not just about “improving the chart,” but about clarifying:
+> What information does the `audience` of this chart `need`? What questions do I want it to answer?
 
 ## Step three: Sketch a solution
 
