@@ -1,18 +1,35 @@
 | [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Data Visualization Critique](DV-critique-1) | [Data visualization](DV-1) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # Critique By Design
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# 📘 MakeoverMonday Redesign Project
+## NHTSA Vehicle Recalls by Manufacturer
+_By Alice Li
+Carnegie Mellon University — Telling Stories with Data_
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+I selected the visualization **“NHTSA Recalls by Manufacturer”** from MakeoverMonday for redesign.
+My reasons for choosing this topic are as follows:
+- **High issue importance:** Vehicle recalls are directly linked to road safety.
+- **Extensive data coverage:** NHTSA recall data spans over 50 years, from 1966 to 2023.
+- **Difficulty comparing brands and defect categories:** While interactive, the original visualization confined information within pie charts.
+- **Lack of timeline and contextual information:** Viewers may misunderstand, leading to brand bias or misconceptions.
 
+My goal is to enable users with a single glance to understand:
+- Time trends
+- Defect types
+- Differences between brands
+---
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+I analyzed the original visualization using Stephen Few's evaluation model, focusing on aspects such as “message clarity, comparative capability, design consistency, and authenticity.”
+---
+### What is the message?
+
+This pie chart primarily shows:
+- Which brand has the most recalls
+- Clicking reveals the main defect types for that brand's recalls
+
+In other words, it aims to convey both “overall comparison” and “defect classification.”
 
 ## Step three: Sketch a solution
 
