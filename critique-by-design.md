@@ -141,17 +141,17 @@ Based on my critiques, I created three sketches addressing three points.
 
 ### Synthesis: 
 
-<mark>**Insight 1:** Heatmaps are the clearest and most effective charts</mark>
-- Both participants agreed heatmaps are the easiest to understand
+<mark>Insight 1: Heatmaps are the clearest and most effective charts</mark>
+- Both participants agreed that heatmaps are the easiest to understand
 - They enable quick comparison of brands and recall reasons
 
-<mark>**Insight 2:** Sankey Diagrams Need Simplification</mark>
-- Both agree Sankey diagrams are informative but high in noise
+<mark>**Insight 2: ** Sankey Diagrams Need Simplification</mark>
+- Both agree that Sankey diagrams are informative but high in noise
 - Become messy when too many defect categories are present; require:
 - Adding labels
 - Using them as supplementary rather than primary visuals
 
-<mark>**Insight 3**: Every chart requires a title and caption</mark>
+<mark>Insight 3: Every chart requires a title and caption</mark>
 - Users need guidance on “what question this chart is meant to answer”
 - The title area and subtitle require reinforcement
 
