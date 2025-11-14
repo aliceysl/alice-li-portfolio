@@ -157,7 +157,11 @@ Based on my critiques, I created three sketches addressing three points.
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+### Trend in Recall Volumes for the Top 15 Automakers, 2010–2022
+**Description**
+
+This line chart displays the annual trends for the 15 automakers with the highest recall volumes between 2010 and 2022. Each line represents a brand, with the height of the line indicating the number of vehicles affected by recalls in that year.
+This visualization adds a “temporal dimension” not provided by the raw data, enabling viewers to compare changes across different years rather than seeing only single-year figures or total recall counts.
 
 <div class='tableauPlaceholder' id='viz1763108127407' style='position: relative'><noscript><a href='#'><img alt='Recall Trends Among Major Automakers Over the Past 12 Years (Top 15, 2010–2022)This chart presents the top 15 automakers with the highest number of recalled vehicles between 2010 and 2022, illustrating the annual variation in their recall volumes. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarsRecallTrend&#47;LineChart&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CarsRecallTrend&#47;LineChart' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarsRecallTrend&#47;LineChart&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-TW' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -173,6 +177,22 @@ _Include and describe your final solution here. It's also a good idea to summari
 This line chart illustrates trends among the top 15 automakers by recall volume from 2010 to 2022, highlighting brands that stood out significantly or experienced notable fluctuations in certain years. 
 Note: Recall volume represents only the number of affected vehicles and does not equate to quality levels.
 
+**Key Insights**
+
+Overall recall volumes exhibited significant fluctuations over the 12-year period, with peaks occurring in certain years (particularly 2014–2015), potentially linked to major safety incidents or regulatory adjustments. Major automakers like Ford, GM, and Chrysler typically showed higher annual volatility, likely due to their larger market presence and broader model portfolios. Some brands demonstrated declining recall trends (e.g., Nissan), possibly reflecting product strategy shifts or quality improvements.
+
+
+**Limitations**
+
+The data does not include market share or sales volume, so recall volume does not equate to a quality indicator. Differences in sales scale among brands will naturally affect recall volume.
+
+---
+
+### Brand × Defect Category Recall Heat Map
+**Description**
+
+This heatmap illustrates the distribution of vehicle recalls across the top 15 automakers within different defect categories. The horizontal axis represents automakers, while the vertical axis shows consolidated primary defect categories (e.g., Airbags, Electrical, Engine, Brakes). Color intensity indicates recall volume, with darker shades signifying higher recall volumes for that automaker within the respective defect category.
+
 <div class='tableauPlaceholder' id='viz1763111451186' style='position: relative'><noscript><a href='#'><img alt='Automaker and Defect Category Recall Heat Map (Top 15, 2010–2022)This heat map compares recall types for the top 15 automakers from 2010 to 2022.Each cell represents the number of vehicles recalled for “a specific manufacturer × a specific defect catego ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarsRecallTrend-heatmap&#47;Heatmap&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CarsRecallTrend-heatmap&#47;Heatmap' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarsRecallTrend-heatmap&#47;Heatmap&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-TW' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1763111451186');                    
@@ -187,11 +207,45 @@ Note: Recall volume represents only the number of affected vehicles and does not
 This figure displays the distribution of vehicle recalls across defect categories for the top 15 automakers. Darker shades indicate higher recall volumes, while lighter shades represent lower volumes. 
 Note: The data excludes market share, so recall volumes do not serve as a quality indicator.
 
+**Insights**
+
+Categories such as Airbags, Electrical System, Powertrain, and Engine consistently show high recall volumes across brands, indicating they are common high-risk systems. Toyota stands out particularly in the Airbags category (reflecting the Takata airbag incident), GM has high recall volumes in the Electrical category, while Ford shows relatively higher recall rates in the Powertrain and Steering categories.
+Heatmaps provide a clear overview of each brand's “problem hotspots,” revealing which systems are more frequently affected by issues specific to that brand.
+
+**Limitations**
+
+Recall Reasons feature complex naming conventions, requiring manual consolidation into primary categories, which may compress details. Heatmaps present relative comparisons rather than proportional composition or risk intensity.
+
+---
+
+### Brand → Defect Category Recall Flow Chart
+
+**Description**
+
+This Sankey diagram illustrates how recall incidents from the top 15 automakers are distributed across different defect categories. Nodes on the left represent automakers, while nodes on the right denote primary defect categories; line thickness indicates the number of recalled vehicles per brand within each category.
+Sankey diagrams highlight the flow structure from “brand → defect category,” complementing line charts and heatmaps by revealing holistic relationships they cannot display.
+
 <img src="sankey.png" width="800">
 
 **Figure 3. Recall Flow Between Brands and Defect Categories (2010–2022).**
 This figure illustrates how recall volumes from the top 15 automobile manufacturers (2010–2022) are categorized by major defects. The width of each flow represents the number of vehicles affected, allowing readers to quickly identify which defect categories account for the largest share of recalls for each manufacturer. This visualization highlights structural patterns in recall distributions that are not readily apparent in trend lines or heat maps.
 
+**Insights**
+
+Categories such as Airbags, Engine, and Electrical exhibit the heaviest recall flows, indicating they are high-recall items common across brands.
+Recall distributions vary significantly by brand:
+- Toyota shows substantial recall flows in the Airbags category,
+- GM has higher recall volumes in the Electrical category,
+- Nissan's recalls cluster more heavily in Fuel System and Electrical.
+
+Some brands exhibit more balanced recall distributions, indicating recall events across multiple systems without a specific single weakness.
+
+**Limitations**
+
+To maintain chart readability, defect categories were consolidated and grouped.
+Only the top 15 brands are shown; others are excluded.
+This is a directional visualization presenting relative flow, not suitable for precise proportion comparisons.
+Data excludes sales volume and market share; thus, flow does not indicate quality differences.
 
 
 ## References
