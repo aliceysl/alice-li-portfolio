@@ -161,31 +161,22 @@ _Include and describe your final solution here. It's also a good idea to summari
 
 ## References
 - American Enterprise Institute. (2016). Animated chart: Market shares of U.S. auto sales, 1961–2016. Retrieved from https://www.aei.org/carpe-diem/
-
 - Few, S. (2006). Data Visualization Effectiveness Profile. Perceptual Edge.
 http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
-
 - Garvey, B. Auto Fatalities Visualization Sketches. Retrieved from
 http://plotdevice.bengarvey.com/auto
-
 - Hint.fm. (2010). Design and Redesign. Retrieved from
 https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9
-
 - MakeoverMonday. (2023). NHTSA Recalls by Manufacturer. Dataset and original visualization retrieved from
 https://www.makeovermonday.co.uk/
-
 - NHTSA. (2023). Vehicle Recall Data. National Highway Traffic Safety Administration.
 https://www.nhtsa.gov/recalls
-
 - Multiple Views – Visualization Research Explained. (n.d.). Data is Personal: What We Learned from 42 Interviews in Rural America.
 https://medium.com/multiple-views-visualization-research-explained/data-is-personal-what-we-learned-from-42-interviews-in-rural-america-93539f25836d
-
 - Riley, J. (2018). Correlation, Causation & Misleading Data Claims [Video].
 YouTube. https://youtu.be/emb6EoIDcnw
-
 - VizHealth. (n.d.). Visualizing Health Wizard.
 http://www.vizhealth.org/wizard/
-
 - Youtube – MakeoverMonday. (n.d.). Critique Videos & Watch Me Viz.
 https://www.youtube.com/playlist?list=PLX-uPHRG0cLaArxVL-tz209lw3sJZDlNL
 
