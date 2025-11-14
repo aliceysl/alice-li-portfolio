@@ -270,10 +270,9 @@ http://www.vizhealth.org/wizard/
 https://www.youtube.com/playlist?list=PLX-uPHRG0cLaArxVL-tz209lw3sJZDlNL
 
 ## AI acknowledgements
-_- In this assignment, I used Generative AI to assist with the following tasks._
-
-_- Understanding assignment instructions: Clarifying requirements for each step and confirming submission format specifications._
-_- Refining textual expression: Assisting in adjusting the tone when describing critiques, insights, and user interview feedback to ensure clarity, conciseness, and fluency._
+- In this assignment, I used Generative AI to assist with the following tasks.
+- Understanding assignment instructions: Clarifying requirements for each step and confirming submission format specifications.
+- Refining textual expression: Assisting in adjusting the tone when describing critiques, insights, and user interview feedback to ensure clarity, conciseness, and fluency.
 
 _All visual sketches, data analysis, user interviews, final decisions, and redesigns were completed by me personally._
 
