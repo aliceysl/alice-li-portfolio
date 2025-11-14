@@ -1,7 +1,6 @@
 | [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Data Visualization Critique](DV-critique-1) | [Data visualization](DV-1) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
-# Critique By Design
-# 📘 MakeoverMonday Redesign Project
+# 📘 Critique By Design - MakeoverMonday Redesign Project
 ## NHTSA Vehicle Recalls by Manufacturer
 _By Alice Li
 Carnegie Mellon University — Telling Stories with Data_
@@ -50,6 +49,24 @@ Without total sales volume, market share, or vehicle count, viewers may mistaken
 > What information does the `audience` of this chart `need`? What questions do I want it to answer?
 
 ## Step three: Sketch a solution
+Based on my critiques, I created three sketches addressing three points.
+
+### 1️⃣ Line chart → Lack of trend visualization
+- Show how recall volumes for each brand change over time
+- Address the limitation of pie charts displaying only total figures
+
+<img src="line chart - sketch.jpg" width="800">
+
+### 2️⃣ Heatmap → Unable to compare recall reasons across brands
+- At a glance, compare which brands most frequently exhibit issues with specific defects
+- Users can compare without having to click through multiple pages
+
+<img src="heatmap - sketch.jpg" width="800">
+
+### 2️⃣ Sankey diagram → Lack of structural perspective
+- Distribution of reasons for brand recall
+
+<img src="Sankey diagram - sketch.jpg" width="800">
 
 ## Step four: Test the solution
 
