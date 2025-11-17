@@ -79,8 +79,13 @@ A researcher is also a storyteller and strategist who helps stakeholders see val
 [Part II](final-project-part-two) |
 [Part III](final-project-part-three)
 
-Here it might be helpful to include a high-level description of your final project. 
+This project focuses on how rising educational level of US women has transformed family structures—including marriage, divorce, childbearing, marital stability, and number of marriages—and how women are reprioritizing life goals in modern society.
 
+While popular assumptions suggest “higher education → less likely to marry → fewer children,” such narratives oversimplify realities and overlook women's structural environments and developmental needs.
+
+**`Increased education for women = more life choices ≠ fewer families`**
+
+What truly shapes family structures is whether the environment and system support modern women's lifestyles and pursuits.
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
