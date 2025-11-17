@@ -1,4 +1,5 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home Page](https://aliceysl.github.io/alice-li-portfolio/) | [Data Visualization Critique](DV-critique-1) | [Data visualization](DV-1) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+
 
 # The Impact of Women's Educational Level in the United States on Family Composition and Life Choices
 _By Alice Li Carnegie Mellon University — Telling Stories with Data_
