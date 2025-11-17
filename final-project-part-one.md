@@ -74,19 +74,20 @@ _Source: HCMST (Stanford)_
 
 # 4. The data
 | Name | URL | Description |
-|----------|---------------------|------------------------|
-| **ACS PUMS – American Community Survey** | https://www.census.gov/programs-surveys/acs/microdata.html <br> https://www2.census.gov/programs-surveys/acs/data/pums/ | Analyze the relationship between women's educational level and marriage rates, divorce rates, fertility rates, number of marriages, and regional variations. |
-| **NSFG – National Survey of Family Growth** | https://www.cdc.gov/nchs/nsfg/nsfg6a.htm | Analyze how the age at first marriage, duration of marriage, age at first childbirth, and educational level influence family formation tracks. |
-| **NCFMR – Marriage & Divorce Rates** | https://www.bgsu.edu/ncfmr.html | Presenting the long-term trends in national marriage and divorce rates as the context and opening of the story. |
-| **HCMST – How Couples Meet and Stay Together** | https://data.stanford.edu/hcmst | Analyze how women with different levels of education perceive their partners and how long it takes them to marry after meeting them. |
-| **BLS – Highlights of Women’s Earnings** | https://www.bls.gov/opub/reports/womens-earnings/2023/home.htm | Analyze differences in women's educational level, salary, job type, and career development. |
-| **DOL Women’s Bureau – Earnings by Education & Sex** | https://www.dol.gov/agencies/wb/data/earnings/Median-weekly-earnings-educational-sex | Compare the salaries of women with different levels of education and link them to household income. |
-| **OECD – Net Childcare Costs Dataset** | https://stats.oecd.org/Index.aspx?DataSetCode=ELFS_CHILD | Comparing childcare cost burdens between the United States and OECD countries, this analysis explains how systemic differences impact fertility and family formation. |
-| **NDCP – National Database of Childcare Prices** | https://www.dol.gov/agencies/wb/topics/childcare | Display childcare costs and their proportion of household income across U.S. counties, creating a childcare cost map for regional comparison. |
-| **USDA – Cost of Raising a Child** | https://www.ers.usda.gov/data-products/cost-of-raising-a-child/ | Estimate the total cost of raising a child from infancy to adulthood and compare it to household income. |
-| **Harvard JCHS – Housing Affordability Data** | https://www.jchs.harvard.edu/research/harvard-housing-data | Analyzing the housing price-to-income ratio and the gender pay gap across states to explore the relationship between housing affordability and family formation. |
-| **Zillow – Zillow Observed Rent Index (ZORI)** | https://www.zillow.com/research/data/ | Presenting urban rental affordability and supplementing home price affordability to form a comprehensive housing affordability analysis. |
-| **Census – Income in the United States 2024** | https://www.census.gov/library/publications/2025/demo/p60-286.html | Analyze household income structures, women's income contributions within families, and how income levels influence family composition. |
+|------|------|-------------|
+| **ACS PUMS – American Community Survey** | [Link 1](https://www.census.gov/programs-surveys/acs/microdata.html) <br> [Link 2](https://www2.census.gov/programs-surveys/acs/data/pums/) | Analyze the relationship between women's educational level and marriage rates, divorce rates, fertility rates, number of marriages, and regional variations. |
+| **NSFG – National Survey of Family Growth** | [Link](https://www.cdc.gov/nchs/nsfg/nsfg6a.htm) | Analyze how the age at first marriage, duration of marriage, age at first childbirth, and educational level influence family formation tracks. |
+| **NCFMR – Marriage & Divorce Rates** | [Link](https://www.bgsu.edu/ncfmr.html) | Presenting the long-term trends in national marriage and divorce rates as the context and opening of the story. |
+| **HCMST – How Couples Meet and Stay Together** | [Link](https://data.stanford.edu/hcmst) | Analyze how women with different levels of education perceive their partners and how long it takes them to marry after meeting them. |
+| **BLS – Highlights of Women’s Earnings** | [Link](https://www.bls.gov/opub/reports/womens-earnings/2023/home.htm) | Analyze differences in women's educational level, salary, job type, and career development. |
+| **DOL Women’s Bureau – Earnings by Education & Sex** | [Link](https://www.dol.gov/agencies/wb/data/earnings/Median-weekly-earnings-educational-sex) | Compare the salaries of women with different levels of education and link them to household income. |
+| **OECD – Net Childcare Costs Dataset** | [Link](https://stats.oecd.org/Index.aspx?DataSetCode=ELFS_CHILD) | Comparing childcare cost burdens between the United States and OECD countries, this analysis explains how systemic differences impact fertility and family formation. |
+| **NDCP – National Database of Childcare Prices** | [Link](https://www.dol.gov/agencies/wb/topics/childcare) | Display childcare costs and their proportion of household income across U.S. counties, creating a childcare cost map for regional comparison. |
+| **USDA – Cost of Raising a Child** | [Link](https://www.ers.usda.gov/data-products/cost-of-raising-a-child/) | Estimate the total cost of raising a child from infancy to adulthood and compare it to household income. |
+| **Harvard JCHS – Housing Affordability Data** | [Link](https://www.jchs.harvard.edu/research/harvard-housing-data) | Analyzing the housing price-to-income ratio and the gender pay gap across states to explore the relationship between housing affordability and family formation. |
+| **Zillow – Zillow Observed Rent Index (ZORI)** | [Link](https://www.zillow.com/research/data/) | Presenting urban rental affordability and supplementing home price affordability to form a comprehensive housing affordability analysis. |
+| **Census – Income in the United States 2024** | [Link](https://www.census.gov/library/publications/2025/demo/p60-286.html) | Analyze household income structures, women's income contributions within families, and how income levels influence family composition. |
+
 
 # 5. Method and medium
 This project will use:
