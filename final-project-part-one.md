@@ -2,6 +2,7 @@
 
 
 
+
 # The Impact of Women's Educational Level in the United States on Family Composition and Life Choices
 _By Alice Li Carnegie Mellon University — Telling Stories with Data_
 
