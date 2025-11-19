@@ -3,73 +3,59 @@
 
 
 
-# The Impact of Women's Educational Level in the United States on Family Composition and Life Choices
+# What does the gas station map tell us? Analyzing community differences in Allegheny County
 _By Alice Li Carnegie Mellon University — Telling Stories with Data_
 
 # 1. Outline
  
-This project focuses on how rising educational level of US women has transformed family structures—including marriage, divorce, childbearing, marital stability, and number of marriages—and how women are reprioritizing life goals in modern society.
+Daily commutes rely on gasoline, and the distribution of different fuel brands and gas stations is often regarded as “invisible infrastructure.” In Allegheny County—a region characterized by distinct local variations (where urban areas, affluent suburbs, industrial zones, and low-income communities coexist)—fuel quality, price disparities, and the geographic distribution of gas stations may reflect deeper socioeconomic structures.
 
-While popular assumptions suggest “higher education → less likely to marry → fewer children,” such narratives oversimplify realities and overlook women's structural environments and developmental needs.
+This special feature aims to explore specific questions through data analysis: “Where are people more likely to access high-quality fuel?” “Do high-income vs. low-income neighborhoods have different fueling environments?” “Are fuel prices correlated with housing costs, public safety, or school quality?”
 
-However, the data reveal a different narrative for highly educated women:
-- Marrying later, yet having more stable marriages
-- Having children later, yet investing greater time and resources in parenting
-- Demonstrating stronger autonomy in partner selection and relationship quality
-
-These trends are not because women reject family life, but because of:
-- Increased career opportunities for women (higher salaries, promotions, etc.)
-- Childcare costs, parenting expenses, and housing affordability severely impacting family formation
-- Changes in how modern couples meet (online dating, workplaces, etc.)
-- Women preferring to start families under more stable, secure, and resourceful circumstances
-
-**Increased education for women = more life choices ≠ fewer families**
-
-What truly shapes family structures is whether the environment and system support modern women's lifestyles and pursuits.
+This project will use TOP TIER certification as an indicator of fuel quality, integrating multiple data sources including gas station locations, Census income data, Zillow housing prices, county crime statistics, and school quality metrics. Through maps, charts, and comparative indicators, I aim to construct a “fuel quality × community conditions” landscape narrative, revealing resource accessibility, consumer affordability, and potential inequalities within Allegheny County.
 
 # 2. Project structure 
 
-## (A) Changes in U.S. Family Composition
-Purpose: To provide background context for audiences and dispel existing misconceptions.
+## Act I | Why Fuel Quality Matters?
 
-- Marriage and Educational Level: Declining marriage rates, rising age at first marriage, delayed childbearing, and a decrease in divorce rates over the past decade (though varying by educational attainment)
-- Regional Differences: Higher marriage rates in the Midwest and South, lower rates in the Northeast/West Coast
+- Introduction to TOP TIER certification: Representing the gold standard for fuel cleanliness and additive performance.
+- Explaining Allegheny County's diverse composition: Pittsburgh's urban core, affluent suburbs, industrial towns, low-income communities, and more.
+- Setting the stage for the central question: Is fuel quality linked to community disparities?
 
-**While it may appear that “increased female educational attainment” drives these changes, the answer is more complex.**
+## Act II | Mapping the Fuel Landscape
 
-_Resources: ACS、NCFMR_
+- Use the Google Maps Places API to obtain all gas station locations and brands.
+- Categorize brands into “TOP TIER” and “non-TOP TIER”.
+- Visualize on a map: Where are high-quality gas stations concentrated? Where are the gaps (fuel deserts)?
 
-## (B) How does educational level influence family formation?
-- Higher education → Later marriage, later childbearing, more stable marriages (lower divorce rates)
-- Lower education → Earlier marriage and childbearing, higher divorce rates
-- State-level educational distribution correlates closely with marriage rates
+## Act III | Adding Socioeconomic Layers
 
-_Data: ACS (EDUC × MAR × DIV), NSFG (AGEAT1STMARR, MARLENGTH)_
+Perform spatial comparisons of gas station data with the following datasets:
+- Income: Census ACS tract-level
+- Housing Value: Zillow ZHVI
+- Crime Rate: Allegheny County and Pittsburgh open data
+- School Quality Proxy: NCES + PA Education indicators
 
-## (C) Female Education Improvement → Better Career Development, Not Rejecting Family
-- Highly educated women earn more and hold higher positions
-- Women's contribution to household income increases
-- Higher-educated women pursue career development → Adjusting family formation timing
-- Delaying marriage isn't about unwillingness to marry, but waiting for suitable conditions
+Explore:
+- Which areas are more likely to have TOP TIER stations?
+- Do higher-priced suburbs vs. industrial towns exhibit different gas station characteristics?
+- Do communities with better education and safety also have higher fuel quality?
 
-_Sources: BLS Women’s Earnings, DOL Women’s Bureau, ACS Household Income_
+## Act IV | Value for Money
 
-## (D) Four systemic burdens better explain family delay than education:
-- High childcare costs (the U.S. ranks among the most expensive in the OECD)
-- High total child-rearing expenses (USDA data shows an average of $200,000–$300,000)
-- High housing affordability challenges (price-to-income ratios of 5–10 times)
-- Limited work flexibility (highly educated women rely more on career progression)
+Define the “fuel value for money” metric, which may utilize:
+1. Fuel Value Index = Regional Average Fuel Price ÷ Fuel Quality Indicator (1 or 0)
+2. Compare each community's fuel prices against the county average.
 
-_Sources: OECD Childcare Costs, U.S. DOL Childcare Prices, USDA Child Costs, Harvard JCHS Housing Data, Zillow ZORI_
+Explore:
+- Which communities get more “value” for every dollar spent?
+- Do low-income communities pay more for lower-quality fuel?
 
-## (E) Education Empowers Women to Make Better Partner Choices
-- Highly educated women have greater opportunities to meet partners through online dating or professional settings
-- The timeframe from meeting to marriage varies by educational attainment
-- Women prioritize partner quality and shared values over early marriage
+## Act V | Conclusion & Implications
 
-_Source: HCMST (Stanford)_
-
-### `This demonstrates that higher education is not the issue—the real question is whether the environment and systems support women.`
+-  Allegheny County's disparities and inequalities in fuel accessibility.
+-  Discussion of potential impacts on commuting burdens, transportation behaviors, and community resource distribution.
+-  Connections to broader social issues: the relationship between infrastructure and social class.
 
 # 3. Initial sketches
 
