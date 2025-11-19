@@ -62,15 +62,15 @@ Explore:
 
 # 4. The data
 
-| Name                   | Link                                    | Description                                                                          |
-|------------------------|-----------------------------------------|--------------------------------------------------------------------------------------|
-| TOP TIER 品牌清單       | https://toptiergas.com/licensed-brands/ | Determining whether a gas station is high-quality                                     |
-| Google Places API      | https://developers.google.com/maps      | Get the gas station location, brand, and coordinates                                 |
-| ACS Income             | https://data.census.gov                 | Analyzing Community Income and Differences in Oil Quality and Prices                 |
-| Zillow ZHVI            | https://www.zillow.com/research/data/   | Housing Prices vs. Gasoline Affordability                                            |
-| WPRDC Crime            | https://data.wprdc.org                  | Analysis of security and gas station distribution                                    |
-| NCES / PA 教育部        | https://nces.ed.gov                     | Creating School Quality Indicators                                                   |
-| EIA / AAA 油價資料      | https://www.eia.gov/petroleum/gasdiesel/ | Used as a benchmark for fuel price comparisons and cost-effectiveness calculations   |
+| Name                              | Link                                    | Description                                                                          |
+|-----------------------------------|-----------------------------------------|--------------------------------------------------------------------------------------|
+| TOP TIER Brand List               | https://toptiergas.com/licensed-brands/ | Determining whether a gas station is high-quality                                     |
+| Google Places API                 | https://developers.google.com/maps      | Get the gas station location, brand, and coordinates                                 |
+| ACS Income                        | https://data.census.gov                 | Analyzing Community Income and Differences in Oil Quality and Prices                 |
+| Zillow ZHVI                       | https://www.zillow.com/research/data/   | Housing Prices vs. Gasoline Affordability                                            |
+| WPRDC Crime                       | https://data.wprdc.org                  | Analysis of security and gas station distribution                                    |
+| NCES / PA Department of Education | https://nces.ed.gov                     | Creating School Quality Indicators                                                   |
+| EIA / AAA Oil Price Data          | https://www.eia.gov/petroleum/gasdiesel/ | Used as a benchmark for fuel price comparisons and cost-effectiveness calculations   |
 
 # 5. Method and medium
 
