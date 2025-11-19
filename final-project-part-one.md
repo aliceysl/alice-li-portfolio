@@ -56,7 +56,9 @@ Explore:
 
 # 3. Initial sketches
 
-[Drawing]
+<img src="gas sketch -2.jpg" width="800">
+
+<img src="gas sketch -1.jpg" width="800">
 
 # 4. The data
 
