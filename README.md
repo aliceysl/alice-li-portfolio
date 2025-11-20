@@ -80,9 +80,7 @@ A researcher is also a storyteller and strategist who helps stakeholders see val
 [Part II](final-project-part-two) |
 [Part III](final-project-part-three)
 
-This project focuses on how rising educational level of US women has transformed family structures—including marriage, divorce, childbearing, marital stability, and number of marriages—and how women are reprioritizing life goals in modern society.
-
-While popular assumptions suggest “higher education → less likely to marry → fewer children,” such narratives oversimplify realities and overlook women's structural environments and developmental needs.
+In this project, I explore how fuel quality, fuel prices, and gas station distribution reflect broader socioeconomic patterns within Allegheny County. Using TOP TIER certification as a proxy for gasoline quality, I integrate data on station locations, income, housing values, crime, and school indicators to explore where residents have better access to high-quality fuel and how fueling environments differ between high-income, low-income, urban, suburban, and industrial communities. Through maps and comparative visualizations, this project reveals how “invisible infrastructure” such as fuel access can highlight community resource disparities, affordability challenges, and underlying inequalities across the county.
 
 **`Increased education for women = more life choices ≠ fewer families`**
 
