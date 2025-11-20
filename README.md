@@ -82,10 +82,6 @@ A researcher is also a storyteller and strategist who helps stakeholders see val
 
 In this project, I explore how fuel quality, fuel prices, and gas station distribution reflect broader socioeconomic patterns within Allegheny County. Using TOP TIER certification as a proxy for gasoline quality, I integrate data on station locations, income, housing values, crime, and school indicators to explore where residents have better access to high-quality fuel and how fueling environments differ between high-income, low-income, urban, suburban, and industrial communities. Through maps and comparative visualizations, this project reveals how “invisible infrastructure” such as fuel access can highlight community resource disparities, affordability challenges, and underlying inequalities across the county.
 
-**`Increased education for women = more life choices ≠ fewer families`**
-
-What truly shapes family structures is whether the environment and system support modern women's lifestyles and pursuits.
-
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
 
