@@ -2,69 +2,84 @@
 
 
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+# Oil Prices and Urban Inequality: Exploring Residents' Cost of Living Through Pittsburgh ZIP Codes
+> After buying a car, I see the inequality in the city through oil prices
 
-Text here!
+## Narrative Outline
+This story begins with my personal experience—starting to pay attention to gas prices after buying my first car—and gradually guides readers through:
+1. The striking differences in gas prices across ZIP codes
+2. Whether these disparities correlate with housing prices, income levels, crime rates, and demographic composition
+3. The existence of communities bearing the double burden of low income and high gas prices
+4. What new inequalities emerge when we factor in gas station density and brand (Top-Tier)
+5. Finally, concluding from my perspective as a new car owner, I urge readers: “Pay attention to the subtle ways our daily choices quietly shape urban equity.”
 
-# User research 
+## Wireframes
+1. Cover: Centered main headline + subheading
+2. Opening paragraph: Single-column text + white space
+3. Data source: List format
+4. Oil price map: Full-width screen display
+5. Scatter plot: Left-side chart, right-side text
+6. Ranking Chart: Three-column layout (chart, text, comparison)
+7. 2×2 Categorization Chart: Large centered image + accent color
+8. Concluding CTA: Large font + white background
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+- Shorthand sketch/draft: 
 
-Text here!
+## User research 
 
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+### a. Research Objectives
+Evaluate whether the narrative is clear, the charts are easy to understand, and readers can grasp the key insights.
 
-Text here!
+### b. Target Audience
+- Motorists and residents are concerned about gas prices
+- General public (non-technical or non-policy background)
+- Residents of Pittsburgh or those familiar with urban issues
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+### c. Recruitment Methods
+Convenience sampling: Friends, classmates, peers within the same cohort.
 
+### d. Interview Questions
+- What do you think this story is about?
+- Which section was easiest to understand? Which section was harder to grasp?
+- Did you understand the map?
+- What did you notice from the scatter plot?
+- Did the ranking chart help you understand?
+- Did any particular ZIP codes stand out to you?
+- How was the overall pacing?
+- If you could give just one suggestion, what would it be?
+- What part of this story resonated with you the most?
 
-Text here!
+### e. Research Process
+- Present Shorthand draft
+- Document specific feedback, insights, and pain points
+- Confirm understanding
+- Compile consistent and inconsistent observations
 
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+### f. Findings
+**Overall Understanding**
+All interviewees grasped the story's core message: “Gas prices × Housing prices × Income × Crime reveal urban inequality.”
 
-Text here!
+**Easy-to-Understand Elements**
+- The map is highly intuitive
+- The Top 10 rankings are easy to grasp
+- The opening motivation (buying a car) makes the story relatable
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+**Confusing Elements**
+- The scatter plot requires more explanation
+- Crime vs Gas Price may need clearer highlighting
 
+**Planned Changes**
+- Add annotations to the scatter plot
+- Include labels and ZIP examples for the classification chart
+- Enhance visual white space in the CTA paragraph
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+### AI acknowledgements
+I use generative AI to assist with:
+- Understanding and confirming assignment instructions and formatting requirements
+- Data research and document organization
 
-Text here!
+I use grammar tools for:
+- Draft refinement and tone adjustment
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+All analysis, visualization, and interpretation are completed personally by me.
 
