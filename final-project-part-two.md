@@ -73,7 +73,7 @@ All interviewees grasped the story's core message: “Gas prices × Housing pric
 - Include labels and ZIP examples for the classification chart
 - Enhance visual white space in the CTA paragraph
 
-### AI acknowledgements
+## AI acknowledgements
 I use generative AI to assist with:
 - Understanding and confirming assignment instructions and formatting requirements
 - Data research and document organization
