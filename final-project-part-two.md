@@ -15,15 +15,12 @@ This story begins with my personal experience—starting to pay attention to gas
 
 ## Wireframes
 1. Cover: Centered main headline + subheading
-2. Opening paragraph: Single-column text + white space
-3. Data source: List format
-4. Oil price map: Full-width screen display
-5. Scatter plot: Left-side chart, right-side text
-6. Ranking Chart: Three-column layout (chart, text, comparison)
-7. 2×2 Categorization Chart: Large centered image + accent color
-8. Concluding CTA: Large font + white background
+2. Opening paragraph
+3. Oil price map: Full-width screen display
+4. Scatter plot: Left-side chart, right-side text
+5. Concluding CTA
 
-- Shorthand sketch/draft: 
+- Shorthand sketch/draft: https://carnegiemellon.shorthandstories.com/a-look-at-unequal-living-burdens-through-gas-prices/index.html
 
 ## User research 
 
