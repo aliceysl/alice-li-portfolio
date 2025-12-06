@@ -1,4 +1,4 @@
-| [Home Page](https://aliceysl.github.io/alice-li-portfolio/) | [Data Visualization Critique](DV-critique-1.md) | [Data visualization](DV-1.md) | [Critique by Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
+| [Home Page](https://aliceysl.github.io/alice-li-portfolio/) | [Critique by Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) |
 
 
 <h1>Hi, I’m Alice!</h1>
@@ -30,9 +30,14 @@ A researcher is also a storyteller and strategist who helps stakeholders see val
 
 
 # Portfolio 
-[Data Visualization Critique](DV-critique-1) |
-[Data visualization](DV-1) |
 [Critique by Design](critique-by-design)
+
+## Final project
+[Part I](final-project-part-one) |
+[Part II](final-project-part-two) |
+[Part III](final-project-part-three)
+
+In this project, I explore how fuel quality, fuel prices, and gas station distribution reflect broader socioeconomic patterns within Allegheny County. Using TOP TIER certification as a proxy for gasoline quality, I integrate data on station locations, income, housing values, crime, and school indicators to explore where residents have better access to high-quality fuel and how fueling environments differ between high-income, low-income, urban, suburban, and industrial communities. Through maps and comparative visualizations, this project reveals how “invisible infrastructure” such as fuel access can highlight community resource disparities, affordability challenges, and underlying inequalities across the county.
 
 ---
 ## Trust in organization
@@ -73,12 +78,4 @@ A researcher is also a storyteller and strategist who helps stakeholders see val
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
-
-## Final project
-[Part I](final-project-part-one) |
-[Part II](final-project-part-two) |
-[Part III](final-project-part-three)
-
-In this project, I explore how fuel quality, fuel prices, and gas station distribution reflect broader socioeconomic patterns within Allegheny County. Using TOP TIER certification as a proxy for gasoline quality, I integrate data on station locations, income, housing values, crime, and school indicators to explore where residents have better access to high-quality fuel and how fueling environments differ between high-income, low-income, urban, suburban, and industrial communities. Through maps and comparative visualizations, this project reveals how “invisible infrastructure” such as fuel access can highlight community resource disparities, affordability challenges, and underlying inequalities across the county.
 
