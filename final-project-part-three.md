@@ -2,7 +2,7 @@
 
 
 # The final data story: A look at unequal living burdens through gas prices
-https://preview.shorthand.com/RzNYNKoNqLyRGO2v
+Fianl Presentation: [https://preview.shorthand.com/RzNYNKoNqLyRGO2v](url)
 
 This story examines disparities in gas prices, income levels, crime rates, and population distribution across Pittsburgh's ZIP codes, revealing that residents in low-income areas often bear a heavier fuel cost burden than those in high-income neighborhoods.
 
